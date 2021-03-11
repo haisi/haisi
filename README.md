@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I'm a software engineer from Switzerland working for [Migros Online](https://github.com/hasan-selman-kara-leshop).
+
+Here I am doing some open source stuff. Currently I am creating an open source port of my [bachelor's thesis](https://selman.li/thesis) called [jPBE](https://selman.li/thesis).
+
+However, usually I am just starring repos of others 😄
+
 <!--
 **haisi/haisi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
