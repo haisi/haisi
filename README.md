@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a software engineer from Switzerland working for [mimacom ag](https://www.mimacom.com/).
+I'm a software engineer from Switzerland working for [ti&m](https://www.ti8m.com/).
 
 Here I am doing some open source stuff. Currently I am creating an open source port of my [bachelor's thesis](https://selman.li/thesis) called [jPBE](https://selman.li/thesis).
 
